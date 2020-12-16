@@ -1,2 +1,3 @@
 # ut-salesforce-create-contact-lead-objects
-This Universal Task allows users to create contact and lead objects in Salesforce, as well as execute Salesforce Object Query Language (SOQL) queries.
+Please visit this link to find key features, prerequisites, installation instructions, configuration instructions, and examples of how to use this integration. 
+[Universal Task Documentation](https://docs.stonebranch.com)
